@@ -19,7 +19,7 @@ models: Performed all three above mentioned bossting algorithms.<br/>
 final: Final deployment model.<br/>
 
 Scores:<br/>
-![alt text](https://github.com/Deshram/M5_accuracy/blob/main/screenshots/scores.jpg)
+![alt text](https://github.com/Deshram/M5_accuracy/blob/main/screenshots/scores.JPG)
 
 Choosed CatBoostRegressor for final model.
 
