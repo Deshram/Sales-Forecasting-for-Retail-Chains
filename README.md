@@ -23,4 +23,4 @@ Scores:<br/>
 
 Choosed CatBoostRegressor for final model.
 
-Out of 5558 participants the ranks for score 0.685 were in range of 490-500's i.e the score can be considered as top 10% percentile rank. 
+Out of 5558 participants the ranks for score 0.685 were in range of 490-500's i.e the score can be considered under top 10% percentile rank. 
