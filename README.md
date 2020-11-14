@@ -12,6 +12,7 @@ Dataset Overview:<br/>
 <br>A customized metric known as WRMSSE based on MAPE is used as performance metric. 
 
 <br>Performed 4 models on the dataset (Simpel Exponential Smoothing, XGBoostRegressor, CatBoostRegressor, LGBMRegressor).</br>
+
 EDA_FE: Performed preprocessing and Exploratory Data Analysis on dataset and introduced lags and rolling features. Converted time series problem to supervised machine learning problem.<br/>
 ses: Performed simple Exponential smoothing.<br/>
 models: Performed all three above mentioned bossting algorithms.<br/>
