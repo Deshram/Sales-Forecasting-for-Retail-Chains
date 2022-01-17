@@ -1,4 +1,4 @@
-# M5_accuracy
+# Sales forecasting for retail chains
 
 Forecasting sales for further 28 days for a given item of a store<br/>
 Dataset: https://www.kaggle.com/c/m5-forecasting-accuracy/data<br/>
